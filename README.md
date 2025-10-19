@@ -1,3 +1,20 @@
+## Topics
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Gamification](https://img.shields.io/badge/Gamification-FF69B4?style=for-the-badge)
+![Education](https://img.shields.io/badge/Education-4B0082?style=for-the-badge)
+![Sustainability](https://img.shields.io/badge/Sustainability-228B22?style=for-the-badge)
+![Climate Change](https://img.shields.io/badge/Climate_Change-FF4500?style=for-the-badge)
+![Waste Management](https://img.shields.io/badge/Waste_Management-808080?style=for-the-badge)
+![Renewable Energy](https://img.shields.io/badge/Renewable_Energy-00FF7F?style=for-the-badge)
+![Environmental Awareness](https://img.shields.io/badge/Environmental_Awareness-32CD32?style=for-the-badge)
+![Educational Games](https://img.shields.io/badge/Educational_Games-1E90FF?style=for-the-badge)
+![EdTech](https://img.shields.io/badge/EdTech-FF8C00?style=for-the-badge)
+
+
 # EcoLearning Platform 🌱
 
 EcoLearning Platform is an interactive and engaging educational tool designed for both students and educators. It bridges the gap between theoretical knowledge and practical application through games, learning modules, and real-time dashboards.
